@@ -33,6 +33,8 @@ Angular Weather App From Scratch - Open Weather API
 Angular Weather App
 
 Weather App Screenshot image
+![image](https://github.com/adarsh6980/Angular-Weather-App-From-Scratch---Open-Weather-API-/assets/69494124/97481657-b83b-4f5b-8b08-6e3303e1323b)
+
 
 Description The Angular Weather App is a simple web application that allows users to check the current weather conditions for a specified location. It leverages the OpenWeather API to retrieve weather data and presents it in a user-friendly manner.
 
